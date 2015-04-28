@@ -1,0 +1,112 @@
+
+Q	Linked lists are not a suitable data structure for which of the following problems? 
+options
+Insertion sort
+Binary search
+Deleting last node
+Adding first node
+a
+
+Q 	Which of the following permutations can be obtain the output using stack assuming an input of 1,2,3,4,5 in that order?
+options
+3,4,5,1,2
+3,4,5,2,1
+1,5,2,3,4
+5,4,3,1,2
+a
+
+Q	The initial configuration of the queue is: a,b,c,d  where ëaí is the front end.  To get the configuration: d,c,b,a one needs a minimum of?
+options
+2 deletions and 3 additions
+3 additions and 2 deletions
+3 deletions and 3 additions
+3 deletions and 4 additions
+a
+
+Q	Which of the following is useful in traversing a given graph by breadth-first-search?
+options
+Stack
+Set
+List
+Queue
+a
+
+Q	What is the result of the following operation Top(Push(S, X))?
+options
+X
+null
+s
+none of the above
+a
+
+Q	The memory address of the first element is called the:
+options
+Floor address
+Foundation address
+First address
+Base address
+a
+
+Q	The value of the first linked list address is:
+options
+0
+-1
+1
+None of the Above
+a
+
+Q	The situation in a linked list where START =  NULL is called?
+options
+Overflow
+Underflow
+Both of the above
+None of the above
+a
+
+Q	Length of the linear array can be found by using the formula?
+options
+UB - LB + 1
+LB + UB
+LB - UB
+LB - UB + 1
+a
+
+Q	The terms PUSH and POP are related to?
+options
+Arrays
+Stacks
+Linked List
+None
+a
+
+Q 	Which one of the following is an application of Stack Data Structure
+options
+Managing function calls
+The stock span problem
+Arithmetic expression evaluation
+All of the above
+a
+
+Q	Which of the following is true about linked list implementation of stack?
+options
+In push operation, if new nodes are inserted at the beginning of linked list, then in pop operation, nodes must be removed from end.
+In push operation, if new nodes are inserted at the end, then in pop operation, nodes must be removed from the beginning.
+Both of the above
+None of the above
+a
+
+Q	Which one of the following is an application of Queue Data Structure?
+options
+When a resource is shared among multiple consumers.
+When data is transferred asynchronously (data not necessarily received at same rate as sent) between two processes
+Load Balancing
+All of the above
+a
+
+Q	How many stacks are needed to implement a queue. Consider the situation where no other data structure like arrays, linked list is available to you.
+options
+1
+2
+3
+4
+a

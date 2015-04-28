@@ -1,0 +1,103 @@
+Q	Which of the following algorithm design technique is used in the quick sort algorithm?
+options
+Dynamic programming
+Backtracking
+Divide and conquer
+Greedy method
+a
+
+Q	The number of swapping needed to sort numbers: 8,22,7,9,31,19,5,13 in ascending order using bubble sort is?
+options
+11
+12
+13
+14
+a
+
+Q	Given two sorted lists of size m and n respectively. The number of comparisons needed in the worst case by the merge sort algorithm will be?
+options
+mn
+max(m,n)
+min(m,n)
+m+n-1
+a
+
+Q	Merge sort uses?
+options
+Divide and conquer strategy
+Backtracking approach
+Heuristic search
+Greedy approach
+a
+
+Q	Which of the following is useful when implementing a quick sort?
+options
+Stack
+Set
+List
+Queue
+a
+
+Q	Queue can be used to implement?
+options
+Quick sort
+Merge sort
+Heap sort
+Insertion sort
+a
+
+Q	If a machine took 200 seconds to sort 200 names using Bubble sort, in 800 seconds, it can approximately sort ?
+options
+400 names
+800 names
+750 names
+900 names
+a
+
+Q	If a machine needs a minimum of 100 seconds to sort 1000 names by Quick sort. The minimum time needed to sort 100 names will be approximately?
+options
+50.2 seconds
+6.7 seconds
+72.7 seconds
+11.2 seconds
+a
+
+Q	The average search time of hashing with linear probing will be less if the load factor?
+options
+is far less than one
+equals one
+is far greater than one
+none of the above
+a
+
+Q	Which of the following algorithms solves the all pair shortest path problem?
+options
+Dijkstraís algorithm
+Floydís algorithm
+Primís algorithm
+Warshallís algorithm
+a
+
+Q	As part of work, you are to rearrange the library books in a shelf in proper order, at the end of each day. The ideal algorithm would be?
+options
+Bubble sort
+Insertion sort
+Selection sort
+Heap sort
+a
+
+Q	The way a card game player arranges his cards as he picks them up one by one, is an example of:
+options
+Bubble sort
+Selection sort
+Insertion sort
+Merge sort
+a
+
+Q Given a hash table T with 25 slots that stores 2000 elements, the load factor a for T is ______.
+options
+80
+0.0125
+8000
+1.25
+a

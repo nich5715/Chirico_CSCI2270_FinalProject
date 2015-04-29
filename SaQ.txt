@@ -15,8 +15,7 @@ options
 5,4,3,1,2
 b
 
-Q	The initial configuration of the queue is: a,b,c,d  where a is the front end.
-    To get the configuration: d,c,b,a one needs a minimum of?
+Q	The initial configuration of the queue is: a,b,c,d  where ëaí is the front end.  To get the configuration: d,c,b,a one needs a minimum of?
 options
 2 deletions and 3 additions
 3 additions and 2 deletions

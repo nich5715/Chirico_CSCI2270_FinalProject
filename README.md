@@ -14,7 +14,7 @@ Stacks and Queues
 Binary Trees
 Algorithmic complexity and searching functions
 
-“quiz” class is actually a binary search tree in which each node represents a question of the quiz. we insert questions using insertQuestion function and after inserting all the questions, we display all the questions to the user to get the answers from the user through inorder traversal of the tree using displayQuestions function. then after user finishes a quiz we will post the scores onto the screen. getScore function gives the total number of questions which are correctly answered by the user and size function gives the total number of questions in the quiz.
+“quiz” class is actually a binary search tree in which each node represents a question of the quiz. we insert questions using insertQuestion function and after inserting all the questions, we display all the questions to the user to get the answers from the user through inorder traversal as in left, parent, right of the tree using displayQuestions function. then after user finishes a quiz we will post the scores onto the screen. getScore function gives the total number of questions which are correctly answered by the user and size function gives the total number of questions in the quiz.
 
 
 The program class has different functions to track:

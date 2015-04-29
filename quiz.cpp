@@ -93,12 +93,16 @@ void quiz::displayQuestion(node *q){
 		displayQuestion(q->left);
 		cout << "Q) " << q->question << endl;
 		for (int i = 0; i < q->options.size(); ++i){
+            cout<<"\n";
 			cout << (char)('a' + i) << ") " << q->options[i] << endl;
 		}
-		cout << "Answer: ";
+		cout << "\nAnswer: ";
 		char ans;
 		cin >> ans;
 		if (ans == q->answer){
+                cout << "Correct, great job!\n"<<endl;
+            //for (i=0; i < 45; i++){
+            //}
 			total++;
 		}
 		displayQuestion(q->right);

@@ -1,4 +1,3 @@
-
 Q	Linked lists are not a suitable data structure for which of the following problems? 
 options
 Insertion sort

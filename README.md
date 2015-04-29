@@ -12,10 +12,15 @@ Program Summary
 Using:
 
 main.cpp
+
 quiz.cpp
+
 quiz.h
+
 trees.txt
+
 searching.txt
+
 SaQ.txt
 
 This program is a single-user quiz game, where the user must go through 3 quizzes that are created objects of class quiz about:

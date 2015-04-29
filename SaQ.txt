@@ -1,10 +1,11 @@
-Q	Linked lists are not a suitable data structure for which of the following problems? 
+
+Q	Linked lists are not a suitable data structure for which of the following problems?
 options
 Insertion sort
 Binary search
 Deleting last node
 Adding first node
-a
+b
 
 Q 	Which of the following permutations can be obtain the output using stack assuming an input of 1,2,3,4,5 in that order?
 options
@@ -12,15 +13,16 @@ options
 3,4,5,2,1
 1,5,2,3,4
 5,4,3,1,2
-a
+b
 
-Q	The initial configuration of the queue is: a,b,c,d  where ëaí is the front end.  To get the configuration: d,c,b,a one needs a minimum of?
+Q	The initial configuration of the queue is: a,b,c,d  where a is the front end.
+    To get the configuration: d,c,b,a one needs a minimum of?
 options
 2 deletions and 3 additions
 3 additions and 2 deletions
 3 deletions and 3 additions
 3 deletions and 4 additions
-a
+c
 
 Q	Which of the following is useful in traversing a given graph by breadth-first-search?
 options
@@ -28,7 +30,7 @@ Stack
 Set
 List
 Queue
-a
+d
 
 Q	What is the result of the following operation Top(Push(S, X))?
 options
@@ -44,15 +46,15 @@ Floor address
 Foundation address
 First address
 Base address
-a
+d
 
 Q	The value of the first linked list address is:
 options
 0
 -1
 1
-None of the Above
-a
+None of the Above. First node in the L.List is known as the HEAD
+d
 
 Q	The situation in a linked list where START =  NULL is called?
 options
@@ -60,7 +62,7 @@ Overflow
 Underflow
 Both of the above
 None of the above
-a
+b
 
 Q	Length of the linear array can be found by using the formula?
 options
@@ -76,7 +78,7 @@ Arrays
 Stacks
 Linked List
 None
-a
+b
 
 Q 	Which one of the following is an application of Stack Data Structure
 options
@@ -92,7 +94,7 @@ In push operation, if new nodes are inserted at the beginning of linked list, th
 In push operation, if new nodes are inserted at the end, then in pop operation, nodes must be removed from the beginning.
 Both of the above
 None of the above
-a
+d
 
 Q	Which one of the following is an application of Queue Data Structure?
 options
@@ -100,7 +102,7 @@ When a resource is shared among multiple consumers.
 When data is transferred asynchronously (data not necessarily received at same rate as sent) between two processes
 Load Balancing
 All of the above
-a
+d
 
 Q	How many stacks are needed to implement a queue. Consider the situation where no other data structure like arrays, linked list is available to you.
 options
@@ -108,4 +110,4 @@ options
 2
 3
 4
-a
+b

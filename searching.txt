@@ -4,7 +4,7 @@ Dynamic programming
 Backtracking
 Divide and conquer
 Greedy method
-a
+c
 
 Q	The number of swapping needed to sort numbers: 8,22,7,9,31,19,5,13 in ascending order using bubble sort is?
 options
@@ -12,7 +12,7 @@ options
 12
 13
 14
-a
+d
 
 Q	Given two sorted lists of size m and n respectively. The number of comparisons needed in the worst case by the merge sort algorithm will be?
 options
@@ -20,7 +20,7 @@ mn
 max(m,n)
 min(m,n)
 m+n-1
-a
+d
 
 Q	Merge sort uses?
 options
@@ -60,7 +60,7 @@ options
 6.7 seconds
 72.7 seconds
 11.2 seconds
-a
+b
 
 Q	The average search time of hashing with linear probing will be less if the load factor?
 options
@@ -76,7 +76,7 @@ Dijkstraís algorithm
 Floydís algorithm
 Primís algorithm
 Warshallís algorithm
-a
+b
 
 Q	As part of work, you are to rearrange the library books in a shelf in proper order, at the end of each day. The ideal algorithm would be?
 options
@@ -84,7 +84,7 @@ Bubble sort
 Insertion sort
 Selection sort
 Heap sort
-a
+b
 
 Q	The way a card game player arranges his cards as he picks them up one by one, is an example of:
 options
@@ -92,7 +92,7 @@ Bubble sort
 Selection sort
 Insertion sort
 Merge sort
-a
+c
 
 Q Given a hash table T with 25 slots that stores 2000 elements, the load factor a for T is ______.
 options

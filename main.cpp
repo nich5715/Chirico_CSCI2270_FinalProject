@@ -16,7 +16,6 @@ void readData(string fname, quiz &quiz1){
 				question = "";
 				while (true){
 					in >> temp;
-
 					if (temp == "options"){
 						break;
 					}
@@ -55,7 +54,8 @@ void readData(string fname, quiz &quiz1){
 
 int main(){
 	quiz quiz1, quiz2, quiz3;  // creates data structure of type quiz, named quiz1,quiz2, quiz3
-	cout << "This quiz is on stacks and queues" << endl;
+	cout << "This quiz is for Stacks and Queues\n" << endl;
+	cout << "To User: input one character from given choices following question\n\nExample: for choices from: a), b), c), d) : Type 'a' or 'b for your answer\n__________________________________________________________________________\n" << endl;
 	readData("SaQ.txt", quiz1);
 	quiz1.displayQuestions();
 	cout << "You got " << quiz1.getScore() << " out of " << quiz1.size() << endl << endl << endl;

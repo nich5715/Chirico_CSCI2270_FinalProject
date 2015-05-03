@@ -49,10 +49,11 @@ Just to show you an example of what a question would be like on the quiz see the
 
 
 Q)     A) What day did Biggie Smalls die?
-a) March 9th, 1997
-b) March 7th, 1990
-c) December 5th, 1996
-d) December 7th, 1996
+
+a) March 9th, 1997                                                                                          
+b) March 7th, 1990                                                                                          
+c) December 5th, 1996                                                                                       
+d) December 7th, 1996                                                                                       
 
 // The prompt where you answer will look like this:
 Answer:

@@ -10,6 +10,7 @@ Phase 3: May 3, 5pm
 Program Summary
 
 This program is a single-user quiz game, where the user must go through 3 quizzes that are created objects of class quiz about:
+
 Stacks and Queues
 Binary Trees
 Algorithmic complexity and searching functions
@@ -26,7 +27,43 @@ The program class has different functions to track:
 -a function to clear the tree(used by destructor)
 
 How to run the quiz:
-Start the program with the three .txt inside the zip folder, the driver, class and header files.  Run the program and follow the instructions in the terminal.
+Start the program by typing downloading things.zip onto your computer.
+
+Unzip the file to view what's inside.
+
+Move/copy the following files into a folder connected to what program you're trying to run the code on, I.E. Code::blocks, Geanie, ect:
+main.cpp
+quiz.cpp
+quiz.h
+SaQ.txt
+searching.txt
+trees.txt
+
+To run the program, open up your terminal, and type ./a.out main.cpp
+
+This will start the program.  The quiz is multiple choice.  Upon starting the quiz, it will ask you to enter a letter for your answer.  This letter is a SINGLE CHARACTOR: either 'a' 'b' 'c' or 'd'
+
+Just to show you an example of what a question would be like on the quiz see the following:
+
+// The question would look like this
+
+
+Q)     A) What day did Biggie Smalls die?
+a) March 9th, 1997
+b) March 7th, 1990
+c) December 5th, 1996
+d) December 7th, 1996
+
+// The prompt where you answer will look like this:
+Answer:
+// what you answer is found below:
+a
+
+You will answer fifteen of these questions, then a new quiz will start.  The first quiz is on stacks and heaps, second quiz will be majoritingly on searching, and third quiz will be on trees.  you will answer a single character just like shown above, until all questions are answered.  At the end of each quiz, you will be prompted how well you did; like if you got a perfect score, you'd see:
+
+You got 15 out of 15
+
+At the end of each quiz, you'll see what's above.  Once you're finished with all three quizzes, the program will show your last quiz score, and you can review your questions in the terminal or click enter to exit.
 
 Dependencies There are no dependencies. System Requirements This program is designed for Code::Blocks and uses the g++ compiler. 
 
